@@ -1,0 +1,26 @@
+{
+  "member": 2,
+  "model": "DecisionTree",
+  "kind": "classifier",
+  "selected": "P1V1",
+  "cv_f1": 0.7996209342750272,
+  "cv_f1_std": 0.008542987395267423,
+  "params": {
+    "model__max_depth": 3,
+    "model__min_samples_leaf": 50,
+    "preprocess__prepare__representation": "original"
+  },
+  "features": 15,
+  "accuracy": 0.971606864274571,
+  "precision": 1.0,
+  "recall": 0.6780660377358491,
+  "f1": 0.8081517919887562,
+  "roc_auc": 0.9005756470985751,
+  "average_precision": 0.7369872690417096,
+  "tn": 17534,
+  "fp": 0,
+  "fn": 546,
+  "tp": 1150,
+  "iterations": null,
+  "hit_iteration_limit": false
+}

@@ -1,0 +1,94 @@
+RUN group_pipeline.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+ CELL 8
+ CELL 10
+ CELL 12
+ CELL 14
+ CELL 16
+ CELL 18
+ CELL 20
+ CELL 22
+ CELL 24
+DONE group_pipeline.ipynb 9.6 seconds
+RUN IT25100252_Model_RandomForest.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+ CELL 8
+ CELL 10
+ CELL 12
+DONE IT25100252_Model_RandomForest.ipynb 67.6 seconds
+RUN IT25101007_Model_MLP.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+ CELL 8
+ CELL 10
+ CELL 12
+DONE IT25101007_Model_MLP.ipynb 38.5 seconds
+RUN IT25101528_Model_LogisticRegression.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+ CELL 8
+ CELL 10
+ CELL 12
+DONE IT25101528_Model_LogisticRegression.ipynb 8.3 seconds
+RUN IT25102336_Model_KMeans.ipynb
+ CELL 2
+ CELL 4
+ CELL 5
+DONE IT25102336_Model_KMeans.ipynb 4.6 seconds
+RUN IT25102977_Model_LinearSVM.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+ CELL 8
+ CELL 10
+ CELL 12
+DONE IT25102977_Model_LinearSVM.ipynb 7.5 seconds
+RUN IT25103321_Model_DecisionTree.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+ CELL 8
+ CELL 10
+ CELL 12
+DONE IT25103321_Model_DecisionTree.ipynb 7.8 seconds
+RUN IT25100252_OutlierHandling.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+DONE IT25100252_OutlierHandling.ipynb 2.2 seconds
+RUN IT25101007_FeatureEngineering.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+DONE IT25101007_FeatureEngineering.ipynb 2.2 seconds
+RUN IT25101528_MissingDataAudit.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+DONE IT25101528_MissingDataAudit.ipynb 1.9 seconds
+RUN IT25102336_FeatureScaling.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+ CELL 8
+DONE IT25102336_FeatureScaling.ipynb 2.7 seconds
+RUN IT25102977_CategoricalEncoding.ipynb
+ CELL 2
+ CELL 4
+ CELL 6
+ CELL 8
+DONE IT25102977_CategoricalEncoding.ipynb 2.8 seconds
+RUN IT25103321_DuplicateRemoval.ipynb
+ CELL 2
+ CELL 4
+DONE IT25103321_DuplicateRemoval.ipynb 2.0 seconds
+RUN implementation_pipeline.ipynb
+ CELL 1
+ CELL 3
+ CELL 5

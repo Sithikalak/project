@@ -1,0 +1,25 @@
+{
+  "member": 3,
+  "model": "LinearSVM",
+  "kind": "classifier",
+  "selected": "P2V3",
+  "cv_f1": 0.7321654710018116,
+  "cv_f1_std": 0.005338689427070944,
+  "params": {
+    "model__C": 1.0,
+    "preprocess__prepare__representation": "engineered_bmi_capped"
+  },
+  "features": 25,
+  "accuracy": 0.9604264170566823,
+  "precision": 0.9012875536480687,
+  "recall": 0.6191037735849056,
+  "f1": 0.7340090877315624,
+  "roc_auc": 0.9586435403937579,
+  "average_precision": 0.8187869354262354,
+  "tn": 17419,
+  "fp": 115,
+  "fn": 646,
+  "tp": 1050,
+  "iterations": null,
+  "hit_iteration_limit": false
+}

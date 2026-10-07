@@ -1,0 +1,25 @@
+{
+  "member": 1,
+  "model": "LogisticRegression",
+  "kind": "classifier",
+  "selected": "P2V3",
+  "cv_f1": 0.7359137047364404,
+  "cv_f1_std": 0.007305897830172407,
+  "params": {
+    "model__C": 10.0,
+    "preprocess__prepare__representation": "engineered_bmi_capped"
+  },
+  "features": 25,
+  "accuracy": 0.960634425377015,
+  "precision": 0.8771084337349397,
+  "recall": 0.6438679245283019,
+  "f1": 0.7426045562733764,
+  "roc_auc": 0.9593043185907272,
+  "average_precision": 0.8194030196415468,
+  "tn": 17381,
+  "fp": 153,
+  "fn": 604,
+  "tp": 1092,
+  "iterations": null,
+  "hit_iteration_limit": false
+}

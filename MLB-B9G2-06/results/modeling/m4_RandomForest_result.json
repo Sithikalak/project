@@ -1,0 +1,26 @@
+{
+  "member": 4,
+  "model": "RandomForest",
+  "kind": "classifier",
+  "selected": "P1V2",
+  "cv_f1": 0.8009605638874198,
+  "cv_f1_std": 0.007987557380915238,
+  "params": {
+    "model__max_depth": 14,
+    "model__min_samples_leaf": 5,
+    "preprocess__prepare__representation": "original"
+  },
+  "features": 15,
+  "accuracy": 0.9717108684347374,
+  "precision": 0.9982698961937716,
+  "recall": 0.6804245283018868,
+  "f1": 0.8092566619915849,
+  "roc_auc": 0.9711790744558819,
+  "average_precision": 0.8735848795929666,
+  "tn": 17532,
+  "fp": 2,
+  "fn": 542,
+  "tp": 1154,
+  "iterations": null,
+  "hit_iteration_limit": false
+}

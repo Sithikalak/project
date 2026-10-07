@@ -1,0 +1,7 @@
+representation,k,validation_silhouette
+original,2,0.16157224056582747
+original,3,0.1605940018302996
+original,4,0.1625874989969503
+engineered_bmi_capped,2,0.15381327586357207
+engineered_bmi_capped,3,0.11289502646914892
+engineered_bmi_capped,4,0.11600103650853943

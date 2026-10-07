@@ -1,0 +1,6 @@
+{
+  "member": 6,
+  "model": "MLP",
+  "criterion": "highest mean 3-fold CV F1",
+  "cv_f1": 0.8011871612024092
+}

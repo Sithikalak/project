@@ -1,0 +1,38 @@
+[
+  [
+    "Hewapathirana S.L.",
+    "IT25101528",
+    "MissingDataAudit",
+    "LogisticRegression"
+  ],
+  [
+    "Tennakoon T.A.K. S",
+    "IT25103321",
+    "DuplicateRemoval",
+    "DecisionTree"
+  ],
+  [
+    "Siriwardena H.A.Y.W.",
+    "IT25102977",
+    "CategoricalEncoding",
+    "LinearSVM"
+  ],
+  [
+    "Herath H.M.H.D.P.",
+    "IT25100252",
+    "OutlierHandling",
+    "RandomForest"
+  ],
+  [
+    "Hakkam M.N.A.",
+    "IT25102336",
+    "FeatureScaling",
+    "KMeans"
+  ],
+  [
+    "Ranaviraja R.W.H.M.V.K.B",
+    "IT25101007",
+    "FeatureEngineering",
+    "MLP"
+  ]
+]

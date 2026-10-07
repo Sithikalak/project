@@ -1,0 +1,10 @@
+{
+  "member": 5,
+  "model": "KMeans",
+  "kind": "clustering",
+  "selected": "original / k=4",
+  "validation_silhouette": 0.1625874989969503,
+  "test_silhouette": 0.16094993627847315,
+  "reference_space": "original standardized numeric, binary passthrough, one-hot; fitted only on appropriate training rows",
+  "sample_rows": 2000
+}

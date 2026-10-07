@@ -1,0 +1,5 @@
+feature,q1,q3,lower,upper,flagged_train_rows,action
+age,24.0,59.0,-28.5,111.5,0,retain values; do not treat IQR flag as error
+bmi,23.39,29.85,13.7,39.540000000000006,4244,compare optional BMI capping
+HbA1c_level,4.8,6.2,2.6999999999999993,8.3,1041,retain values; do not treat IQR flag as error
+blood_glucose_level,100.0,159.0,11.5,247.5,1598,retain values; do not treat IQR flag as error

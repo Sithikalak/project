@@ -1,0 +1,41 @@
+{
+  "raw_rows": 100000,
+  "duplicates_removed": 3854,
+  "clean_rows": 96146,
+  "train_rows": 76916,
+  "test_rows": 19230,
+  "feature_names": [
+    "age",
+    "bmi",
+    "HbA1c_level",
+    "blood_glucose_level",
+    "condition_count",
+    "glucose_hba1c_interaction",
+    "hypertension",
+    "heart_disease",
+    "gender_Female",
+    "gender_Male",
+    "gender_Other",
+    "smoking_history_No Info",
+    "smoking_history_current",
+    "smoking_history_ever",
+    "smoking_history_former",
+    "smoking_history_never",
+    "smoking_history_not current",
+    "age_group_20_to_under_40",
+    "age_group_40_to_under_60",
+    "age_group_60_plus",
+    "age_group_under_20",
+    "bmi_group_18.5_to_under_25",
+    "bmi_group_25_to_under_30",
+    "bmi_group_30_plus",
+    "bmi_group_under_18.5"
+  ],
+  "bmi_bounds": [
+    13.7,
+    39.540000000000006
+  ],
+  "seed": 42,
+  "sklearn": "1.8.0",
+  "raw_sha256": "f233fc470e904201f35310d061cb46ca0a6bc7ca5c3e428b769fb4f87f69929b"
+}
